@@ -9,16 +9,13 @@ Building intelligent applications, autonomous systems, and modern full-stack sof
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/ujwal-sai-alla-45ba05283/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ujwalsai16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://drive.google.com/file/d/1-lfGOX0MnVyVL6-OhFdv5DrXh0nBvttu/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
@@ -56,7 +53,7 @@ A modern end-to-end encrypted messaging platform inspired by Signal, built with 
 `Next.js` • `FastAPI` • `SQLite` • `JWT` • `WebSockets`
 
 🔗 **Repository:**  
-YOUR_SIGNAL_REPO_LINK
+https://github.com/AllaUjwalSai/Signal-Chat
 
 ---
 
@@ -78,7 +75,7 @@ A full-stack AI application that generates music from text prompts using Meta's 
 `FastAPI` • `PostgreSQL` • `SQLAlchemy` • `PyTorch` • `MusicGen`
 
 🔗 **Repository:**  
-YOUR_MUSIC_REPO_LINK
+https://github.com/AllaUjwalSai/Music_gen
 
 ---
 
@@ -100,7 +97,7 @@ An AI-powered Retrieval-Augmented Generation assistant designed to help farmers 
 `Python` • `Flask` • `Llama 2` • `RAG` • `Speech Recognition`
 
 🔗 **Repository:**  
-YOUR_FARMER_REPO_LINK
+https://github.com/AllaUjwalSai/Farmer-chatbot
 
 ---
 
@@ -122,7 +119,7 @@ Autonomous driving simulation built with ROS2 and Gazebo featuring lane detectio
 `ROS2` • `Gazebo` • `Python` • `OpenCV` • `Computer Vision`
 
 🔗 **Repository:**  
-YOUR_AUTONOMOUS_REPO_LINK
+https://github.com/AllaUjwalSai/Automates-vehicle-system
 
 ---
 
@@ -143,7 +140,7 @@ Published research implementing Deep Reinforcement Learning for autonomous vehic
 `Python` • `TensorFlow` • `CARLA` • `OpenCV`
 
 📄 **Publication:**  
-YOUR_RESEARCH_LINK
+https://ieeexplore.ieee.org/document/11467875
 
 ---
 
@@ -234,7 +231,7 @@ Published research exploring Deep Reinforcement Learning for adaptive cruise con
 
 📄 Publication Link
 
-YOUR_RESEARCH_LINK
+https://ieeexplore.ieee.org/document/11467875
 
 ---
 
@@ -260,16 +257,12 @@ YOUR_RESEARCH_LINK
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/ujwal-sai-alla-45ba05283/">
 <img src="https://img.shields.io/badge/LinkedIn-Ujwal%20Sai-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ujwalsai16@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
